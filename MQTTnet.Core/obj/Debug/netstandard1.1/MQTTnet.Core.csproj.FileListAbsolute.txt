@@ -1,0 +1,14 @@
+E:\gxDev\小工具\MqttNetClient\MQTTnet-2.4.0\MQTTnet.Core\bin\Debug\netstandard1.1\MQTTnet.Core.deps.json
+E:\gxDev\小工具\MqttNetClient\MQTTnet-2.4.0\MQTTnet.Core\bin\Debug\netstandard1.1\MQTTnet.Core.dll
+E:\gxDev\小工具\MqttNetClient\MQTTnet-2.4.0\MQTTnet.Core\bin\Debug\netstandard1.1\MQTTnet.Core.pdb
+E:\gxDev\小工具\MqttNetClient\MQTTnet-2.4.0\MQTTnet.Core\obj\Debug\netstandard1.1\MQTTnet.Core.csproj.CoreCompileInputs.cache
+E:\gxDev\小工具\MqttNetClient\MQTTnet-2.4.0\MQTTnet.Core\obj\Debug\netstandard1.1\MQTTnet.Core.AssemblyInfo.cs
+E:\gxDev\小工具\MqttNetClient\MQTTnet-2.4.0\MQTTnet.Core\obj\Debug\netstandard1.1\MQTTnet.Core.dll
+E:\gxDev\小工具\MqttNetClient\MQTTnet-2.4.0\MQTTnet.Core\obj\Debug\netstandard1.1\MQTTnet.Core.pdb
+E:\gxDev\网厅接口转发web\GeneralServerInterface\MQTTnet.Core\bin\Debug\netstandard1.1\MQTTnet.Core.deps.json
+E:\gxDev\网厅接口转发web\GeneralServerInterface\MQTTnet.Core\bin\Debug\netstandard1.1\MQTTnet.Core.dll
+E:\gxDev\网厅接口转发web\GeneralServerInterface\MQTTnet.Core\bin\Debug\netstandard1.1\MQTTnet.Core.pdb
+E:\gxDev\网厅接口转发web\GeneralServerInterface\MQTTnet.Core\obj\Debug\netstandard1.1\MQTTnet.Core.csproj.CoreCompileInputs.cache
+E:\gxDev\网厅接口转发web\GeneralServerInterface\MQTTnet.Core\obj\Debug\netstandard1.1\MQTTnet.Core.AssemblyInfo.cs
+E:\gxDev\网厅接口转发web\GeneralServerInterface\MQTTnet.Core\obj\Debug\netstandard1.1\MQTTnet.Core.dll
+E:\gxDev\网厅接口转发web\GeneralServerInterface\MQTTnet.Core\obj\Debug\netstandard1.1\MQTTnet.Core.pdb

@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\gxDev\\网厅接口转发web\\GeneralServerInterface\\MQTTnet.Core\\MQTTnet.Core.csproj": {}
+  },
+  "projects": {
+    "E:\\gxDev\\网厅接口转发web\\GeneralServerInterface\\MQTTnet.Core\\MQTTnet.Core.csproj": {
+      "version": "0.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\gxDev\\网厅接口转发web\\GeneralServerInterface\\MQTTnet.Core\\MQTTnet.Core.csproj",
+        "projectName": "MQTTnet.Core",
+        "projectPath": "E:\\gxDev\\网厅接口转发web\\GeneralServerInterface\\MQTTnet.Core\\MQTTnet.Core.csproj",
+        "packagesPath": "C:\\Users\\Feng\\.nuget\\packages\\",
+        "outputPath": "E:\\gxDev\\网厅接口转发web\\GeneralServerInterface\\MQTTnet.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Feng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.1": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          }
+        }
+      }
+    }
+  }
+}
